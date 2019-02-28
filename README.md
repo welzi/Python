@@ -1,4 +1,4 @@
 _________________________
 # Python
-Everything about python - (:
+Everything About python - (:
 _________________________
